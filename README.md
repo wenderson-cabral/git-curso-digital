@@ -9,3 +9,4 @@
 # Novas alterações 4
 
 #Novas alterações 5
+* comando git pull
